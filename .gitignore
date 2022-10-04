@@ -1,0 +1,9 @@
+.git
+node_modules
+typechain-types
+cache
+.deps
+artifacts
+coverage
+coverage.json
+.env

@@ -1,0 +1,25 @@
+
+{
+	"name": "Engrave-NFTs: ${Id- company name}",
+	"description": "Helping communities build stronger relationships and incentizing health outcomes",
+	"image": "https://storage.googleapis.com/engrave-nfts/logo%20copy.png",
+	"properties": {
+		"simple_property": "example value",
+		"rich_property": {
+			"name": "Name",
+			"value": "123",
+			"display_value": "123 Example Value",
+			"class": "emphasis",
+			"css": {
+				"color": "#ffffff",
+				"font-weight": "bold",
+				"text-decoration": "underline"
+			}
+		},
+		"array_property": {
+			"name": "Name",
+			"value": [1,2,3,4],
+			"class": "emphasis"
+		}
+	}
+}
